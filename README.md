@@ -13,6 +13,7 @@ If you wish to use it, execute the script from the terminal in the directory you
 Adjust "COUNTS" to taste, you may wish to let it run until the drive runs out of space and then manually delete the chaff_out folder.
 COUNTS=500 might produce around 250GB of realistic chaff files.
 This is probably not great for the lifespan of your SSD but it was designed to outperform Bleachbit's "chaff" feature.
+Whether this is actually useful or not is anybody's guess. It probably could use some tweaking, so If you have any ideas of your own, go for it.
 
 Software Disclaimer (Unlicense)
 
