@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
-# chaffer.sh — privacy chaff file generator
+# BetterChaff.sh — privacy chaff file generator
 # Writes realistic-looking fake files with proper magic headers,
 # mixed readable/binary content, and shuffled block order.
 #
-# Usage: chaffer.sh [OPTIONS] [OUTDIR]
+# Usage: BetterChaff.sh [OPTIONS] [OUTDIR]
 #
 #   -c COUNT     files per type (default: 50)
 #   -t RATIO     percent of content that is readable text (default: 30)
