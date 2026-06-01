@@ -1,6 +1,6 @@
 # BetterChaff
 A realistic Chaff generator for OPSEC
-Produces several dummy files with proper MIME typing.
+Produces a lot of dummy files of several filetypes with proper MIME typing.
 Made by ChatGPT and Claude.
 Tested on Linux. 
 YMMV.
