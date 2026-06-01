@@ -3,7 +3,7 @@ a realistic Chaff generator for OPSEC
 made by ChatGPT and Claude.
 Tested on Linux. YMMV.
 
-#how to use: 
+how to use: 
 
 Read the script carefully and make sure you understand what it does.
 Submit the script to an LLM to analyze it for safety if you have any questions about random scripts you find on the internet. 
@@ -12,7 +12,7 @@ Adjust "COUNTS" to taste, you may wish to let it run until the drive runs out of
 COUNTS=500 might produce around 250GB of realistic chaff files.
 This is probably not great for the lifespan of your SSD but it was designed to outperform Bleachbit's "chaff" feature.
 
-#Software Disclaimer (Unlicense)
+Software Disclaimer (Unlicense)
 
 This is free and unencumbered software released into the public domain under the Unlicense.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
